@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Hongwansi",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-09-08T10:11:35.952Z",
+      "notes": "",
+      "position": {
+        "lat": "38.681671490510006",
+        "lng": "99.94648947713205"
+      },
+      "id": 4540988
+    },
+    {
+      "cityName": "Sangju",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2023-09-08T10:11:54.466Z",
+      "notes": "",
+      "position": {
+        "lat": "36.38847979375711",
+        "lng": "128.29768052929754"
+      },
+      "id": 4540989
+    },
+    {
+      "cityName": "Daqing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-09-08T10:13:35.148Z",
+      "notes": "",
+      "position": {
+        "lat": "45.526374500464584",
+        "lng": "124.87962055570033"
+      },
+      "id": 4540990
+    }
+  ]
+}
